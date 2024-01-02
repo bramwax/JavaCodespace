@@ -15,5 +15,7 @@ A repository of Java code used in the teaching of object oriented programming co
 * ls
 * ls -al
 * more README
----
 * git status
+* git add README.md (stages file)
+* git commit -m "Worked in Terminal"
+* git push
