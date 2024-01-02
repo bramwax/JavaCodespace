@@ -1,2 +1,2 @@
-# ks5-oop-java
-repository of java code used to teach object oriented programming
+# JavaCodespace
+A repository of Java code used in the teaching of object oriented programming concepts and constructs.
