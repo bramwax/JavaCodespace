@@ -21,3 +21,4 @@ A repository of Java code used in the teaching of object oriented programming co
 * git push
 * javac HelloCodespace.java
 * java HelloCodespaces
+* rm HelloCodespace.class
