@@ -19,3 +19,5 @@ A repository of Java code used in the teaching of object oriented programming co
 * git add README.md (stages file)
 * git commit -m "Worked in Terminal"
 * git push
+* javac HelloCodespace.java
+* java HelloCodespaces
