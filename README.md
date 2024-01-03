@@ -1,5 +1,6 @@
+
 # JavaRepository & Codespace
-A repository of Java code used in the teaching of object oriented programming concepts and constructs.
+A repository of Java code used in the teaching of object oriented programming concepts and constructs. Based on YouTube tutorial: https://youtu.be/NpIVW4DT434?si=4lUdQkx0vlklHBE9
 
 1. Create GitHub account
 2. Ceeate a repository
